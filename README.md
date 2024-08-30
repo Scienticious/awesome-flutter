@@ -420,6 +420,7 @@ Meteo
 - [Drift](https://github.com/simolus3/drift) - Drift is an easy to use, reactive, typesafe persistence library for Dart & Flutter by [
 Simon Binder](https://github.com/simolus3)
 - [ObjectBox](https://github.com/objectbox/objectbox-dart) - On-device database for fast cross-platform Dart object persistence by [ObjectBox](https://github.com/objectbox)
+- [Hive](https://github.com/isar/hive) - Hive is a lightweight and blazing fast key-value database written in pure Dart by [Isar](https://github.com/isar)
 
 ### Services
 
